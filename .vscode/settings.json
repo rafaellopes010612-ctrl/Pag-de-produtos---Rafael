@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "Game Mania"
+    "liveServer.settings.multiRootWorkspaceName": "Game Mania",
+    "gitdoc.enabled": true
 }
